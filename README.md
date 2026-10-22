@@ -43,7 +43,7 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Dataset:** Diabetes 130-US Hospitals, 1999–2008
 
-**Repository:** [Add your project repository link]
+**Repository:** https://github.com/habibur-rahaman-data-analytics/healthcare-readmission-analysis
 
 ### 2. E-commerce & Retail Analytics — Sales Performance Analysis
 
