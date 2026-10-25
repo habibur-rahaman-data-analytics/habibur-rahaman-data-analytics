@@ -58,6 +58,8 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Tools:** SQL, Python, Excel, Power BI
 
+**Dataset:** Brazilian E-Commerce Public Dataset by Olist
+
 **Repository:** [Add your project repository link]
 
 ### 3. Supply Chain & Logistics Analytics — Operations Performance
@@ -72,6 +74,8 @@ To build practical, end-to-end data analytics solutions that help organizations 
 - Recommend improvements to inventory and delivery processes.
 
 **Tools:** SQL, Python, Excel, Power BI
+
+**Dataset:** DataCo Smart Supply Chain for Big Data Analysis
 
 **Repository:** [Add your project repository link]
 
