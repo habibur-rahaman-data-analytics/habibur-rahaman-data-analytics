@@ -60,7 +60,7 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist
 
-**Repository:** [Add your project repository link]
+**Repository:** https://github.com/habibur-rahaman-data-analytics/ecommerce-retail-analytics
 
 ### 3. Supply Chain & Logistics Analytics — Operations Performance
 
@@ -77,7 +77,7 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Dataset:** DataCo Smart Supply Chain for Big Data Analysis
 
-**Repository:** [Add your project repository link]
+**Repository:** https://github.com/habibur-rahaman-data-analytics/supply-chain-logistics-analytics
 
 *The projects above are portfolio plans until the corresponding analysis and deliverables are completed.*
 
