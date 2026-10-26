@@ -79,7 +79,6 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Repository:** https://github.com/habibur-rahaman-data-analytics/supply-chain-logistics-analytics
 
-*The projects above are portfolio plans until the corresponding analysis and deliverables are completed.*
 
 ## 🔍 My Data Analytics Approach
 
