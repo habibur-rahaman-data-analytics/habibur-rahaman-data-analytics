@@ -32,12 +32,9 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Business objective:** Investigate patient readmission patterns and identify factors associated with readmission within 30 days.
 
-- Clean and prepare hospital encounter data.
-- Perform exploratory data analysis using Python and Pandas.
-- Calculate readmission rates and healthcare KPIs.
-- Analyze patient, medication, and previous-visit patterns.
-- Develop an interactive Power BI dashboard.
-- Present evidence-based recommendations for further investigation.
+- Analyzed 101,766 hospital encounters from the Diabetes 130-US Hospitals dataset and identified an overall 30-day readmission rate of 11.16%.
+- Investigated readmission patterns by prior inpatient visits, identifying a 21.40% readmission rate among encounters with 2+ prior inpatient visits, compared with 8.44% for those with no prior inpatient visits.
+- Performed data cleaning, missing-value and duplicate checks, exploratory analysis, and readmission KPI development; built a Power BI dashboard to communicate findings and support targeted discharge follow-up recommendations.
 
 **Tools:** Python, Pandas, SQL, Power BI, Excel
 
