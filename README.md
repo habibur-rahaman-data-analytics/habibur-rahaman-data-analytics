@@ -32,9 +32,10 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Business objective:** Investigate patient readmission patterns and identify factors associated with readmission within 30 days.
 
-- Analyzed 101,766 hospital encounters from the Diabetes 130-US Hospitals dataset and identified an overall 30-day readmission rate of 11.16%.
-- Investigated readmission patterns by prior inpatient visits, identifying a 21.40% readmission rate among encounters with 2+ prior inpatient visits, compared with 8.44% for those with no prior inpatient visits.
-- Performed data cleaning, missing-value and duplicate checks, exploratory analysis, and readmission KPI development; built a Power BI dashboard to communicate findings and support targeted discharge follow-up recommendations.
+- Analyzed 101,766 hospital encounters from the Diabetes 130-US Hospitals dataset to investigate 30-day readmission patterns and patient characteristics.
+- Identified that encounters with 2 or more prior inpatient visits had a 21.40% 30-day readmission rate, compared with 8.44% for encounters with no prior inpatient visits.
+- Performed data cleaning, quality checks, missing-value and duplicate analysis, feature preparation, and exploratory data analysis using Python and Pandas.
+- Developed readmission KPIs and Power BI dashboard reporting to analyze encounter volumes, readmission rates, prior inpatient visits, and patterns supporting data-driven recommendations.
 
 **Tools:** Python, Pandas, SQL, Power BI, Excel
 
@@ -46,12 +47,10 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Business objective:** Understand sales performance, profitability, product demand, and regional trends.
 
-- Analyze revenue, orders, products, and customer behavior.
-- Identify top-performing and underperforming products.
-- Compare sales across regions and time periods.
-- Investigate revenue and profit trends.
-- Create a business-focused dashboard.
-- Recommend opportunities to improve sales performance.
+- Investigated e-commerce sales performance across product categories, sellers, and customer regions to understand revenue distribution and business performance.
+- Analyzed delivery delays, customer review scores, and freight costs to identify operational factors associated with customer experience.
+- Cleaned, transformed, and analyzed the Olist Brazilian E-Commerce dataset using SQL, Python, Pandas, and Excel.
+- Built KPI analysis and Power BI dashboard reporting to track revenue, delivery performance, customer reviews, and freight costs, translating findings into actionable business recommendations.
 
 **Tools:** SQL, Python, Excel, Power BI
 
@@ -63,12 +62,10 @@ To build practical, end-to-end data analytics solutions that help organizations 
 
 **Business objective:** Identify delivery delays, inventory inefficiencies, and operational bottlenecks.
 
-- Analyze delivery performance and lead times.
-- Monitor inventory levels and stockout patterns.
-- Evaluate supplier and shipment performance.
-- Identify delay patterns and operational risks.
-- Track key supply chain KPIs.
-- Recommend improvements to inventory and delivery processes.
+- Analyzed 65,752 distinct orders and identified a 57.33% late-delivery rate, highlighting delivery performance as a key operational concern.
+- Found that First Class shipments had a 100% late-delivery rate in the dataset, while Standard Class accounted for the largest number of late orders.
+- Investigated shipping modes, regional delivery performance, sales, and profitability using SQL and Python to identify potential logistics bottlenecks.
+- Developed operational KPIs and Power BI dashboard reporting to monitor delivery delays, shipping performance, and category-level profitability, supporting evidence-based improvement recommendations.
 
 **Tools:** SQL, Python, Excel, Power BI
 
