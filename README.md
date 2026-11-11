@@ -1,6 +1,6 @@
 # Hi, I'm Habibur Rahaman 👋
 
-### Aspiring Data Analyst | SQL • Python • Excel • Power BI
+### Aspiring Data Analyst | Business Analyst | SQL, Python, Power BI, Excel | KPI Dashboards & Business Insights | Healthcare, E-commerce & Supply Chain | Kolkata
 
 I am transitioning into Data Analytics with a focus on transforming raw data into meaningful insights that support business decisions.
 
